@@ -1,0 +1,11 @@
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\obj\Debug\FakeNewsDetection.csproj.AssemblyReference.cache
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\obj\Debug\FakeNewsDetection.Form1.resources
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\obj\Debug\FakeNewsDetection.csproj.GenerateResource.cache
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\obj\Debug\FakeNewsDetection.Properties.Resources.resources
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\obj\Debug\FakeNewsDetection.csproj.CoreCompileInputs.cache
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\bin\Debug\FakeNewsDetection.exe.config
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\bin\Debug\FakeNewsDetection.exe
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\bin\Debug\FakeNewsDetection.pdb
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\obj\Debug\FakeNewsDetection.exe
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\obj\Debug\FakeNewsDetection.pdb
+D:\Work\Abc\FakeNewsDetection\FakeNewsDetection\obj\Debug\Regression.Linear.Form1.resources
